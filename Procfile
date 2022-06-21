@@ -1,1 +1,1 @@
-web:vendor/bin/heroku-php-appache2public/
+web: vendor/bin/heroku-php-appache2public/
